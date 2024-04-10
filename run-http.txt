@@ -1,0 +1,4 @@
+@rem npm install http-server -g
+@rem http-server [path] [options]
+
+http-server "C:\Users\tomi_000\OneDrive\Documents\Arkisto\Raha-yms\XBT\Crynance\1.Crynance-WEB-Site\Kalvis Kalnins\crynance\dist"
