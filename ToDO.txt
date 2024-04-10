@@ -1,0 +1,3 @@
+1) ETC Balance check for address (20170825)
+Maybe following would work
+https://etcchain.com/api/v1/getAddressBalance?address=0xbc5f6085DB3587561Ef02245a51850B89f844e4A
